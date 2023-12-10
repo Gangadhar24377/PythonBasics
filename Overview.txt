@@ -1,0 +1,18 @@
+1. BandNameGenerator:
+
+- printing
+- Debugging
+- Input Function
+- Variables
+- Variable Naming
+
+2. Tip Calculator:
+
+- Primitive DataTypes
+- Type Error, Type Checking and Type Conversion
+- Mathematical Operations
+- BMI Calculator (coding exercise)
+- Number Manipulation & F strings
+- Life in Weeks (coding exercise)
+
+3. Treasure Island:
